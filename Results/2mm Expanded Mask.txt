@@ -1,0 +1,2 @@
+Medial: 113,74
+Lateral: 115,123
